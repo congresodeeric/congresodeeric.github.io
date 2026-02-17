@@ -1,0 +1,25 @@
+# Academic Event
+
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Call for Papers"
+    url: /call-for-papers/
+     
+  - title: "Program"
+    url: /program/
+  - title: "Proceedings"
+    url: /proceedings/
+  - title: "Awards"
+    url: /awards/
+  - title: "Registration"
+    url: /registration/
+  - title: "Venue"
+    url: /venue/
+   
+  - title: "Committees"
+    url: /committees/
+    
+  - title: "History"
+    url: /history/
